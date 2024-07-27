@@ -22,7 +22,7 @@ profile_picture:
   <strong>Short Bio</strong><br>
 </p>
 <p>
-  My name is Hyunwoo Kim, and I have completed my Master's degree at <a href="http://xai.korea.ac.kr/" target="_blank">Korea University's Department of Artificial Intelligence</a> under the guidance of Professor<a href="https://research.com/u/seong-whan-lee" target="_blank">Seonghwan Lee</a>. My academic journey has been deeply rooted in the field of computer vision, focusing on 3D Human Pose Estimation and Multi-view Geometry. Currently, my research interests are particularly concentrated on Multi-modal AI and Memory Augmented AI. Specifically, I am interested in Dense Video Captioning, Visual Question Answering, and Video Processing.
+  My name is Hyunwoo Kim, and I have completed my Master's degree at <a href="http://xai.korea.ac.kr/" target="_blank">Korea University's Department of Artificial Intelligence</a> under the guidance of Professor <a href="https://research.com/u/seong-whan-lee" target="_blank">Seonghwan Lee</a>. My academic journey has been deeply rooted in the field of computer vision, focusing on 3D Human Pose Estimation and Multi-view Geometry. Currently, my research interests are particularly concentrated on Multi-modal AI and Memory Augmented AI. Specifically, I am interested in Dense Video Captioning, Visual Question Answering, and Video Processing.
   <br><br>
   During my undergraduate studies, I participated in corporate projects as an intern research student, and I successfully carried out corporate projects during my graduate studies as well. My research achievements include first-author publications in ACCV and Pattern Recognition, with my work being selected for an oral presentation at ACCV.
   <br><br>
