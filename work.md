@@ -3,30 +3,42 @@ layout: work
 title: Publications
 slug: /work
 items:
-  - title: Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval
+  - title: MHCanonNet Multi-Hypothesis Canonical Lifting Network for Self-supervised 3D Human Pose Estimation in the wild Video
     image:
-      src: /assets/img/work/cm2.png
-      alt: cm2
+      src: /assets/img/work/mh.png
+      alt: mh
     description: |  
-      International Conference
-       <br><strong>Minkuk Kim</strong>, Hyeon Bae Kim, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim.  
-       <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.
-  - title: Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering
+       <br> International Journal
+       <br><strong>Hyun-Woo Kim</strong>,Gun-Hee Lee, Woo-Jeoung Nam, Kyung-Min Jin, Tae-Kyung Kang, Geon-Jun Yang, and Seong-Whan Lee.  
+       <br>Pattern Recognition 145 (<strong>Pattern Recognition</strong>), 2024.
+
+  - title: Masked Kinematic Continuity-aware Hierarchical Attention Network for pose estimation in videosㅤ
     image:
-      src: /assets/img/work/ReRe.png
-      alt: ReRe
+      src: /assets/img/work/mk.png
+      alt: mk
     description: |  
-      International Conference
-       <br>Su Hyeon Kim, <strong>Minkuk Kim</strong>, Hyeon Bae Kim, Seong Tae Kim.  
-       <br>IEEE International Conference on Image Processing Workshop, 2024.
-  - title: Exploiting recollection effects for memory-based video object segmentationㅤㅤ
+      <br> International Journal
+      <br> Kyung-Min Jin, Gun-Hee Lee, Woo-Jeoung Nam, Tae-Kyung Kang, <strong>Hyun-Woo Kim</strong>,and Seong-Whan Lee.
+      <br>Neural Networks, 2024.
+
+  - title: EGPose Explicit and Geometric Self-Supervision for 3D Human Pose Estimation
     image:
-      src: /assets/img/work/efficient.png
-      alt: efficient
+      src: /assets/img/work/egpose.png
+      alt: egpose
     description: |  
-      International Journal
-      <br>Enki Cho, <strong>Minkuk Kim</strong>, Hyeong-Il Kim, Jinyoung Moon, Seong Tae Kim.  
-      <br>Image and Vision Computing, 2023.
+      <br> International Conference
+      <br>Geon-Jun Yang, Jun-Hee Kim, <strong>Hyun-Woo Kim</strong>, Gun-Hee Lee and Seong-Whan Lee.  
+      <br>Procedia Computer Science, 2023.
+
+  - title: Cross-view self-fusion for self-supervised 3d human pose estimation in the wild
+    image:
+      src: /assets/img/work/cvsf.png
+      alt: cvsf
+    description: |  
+       <br> International Conference
+       <br><strong>Hyun-Woo Kim</strong>, Gun-Hee Lee, Myeong-Seok Oh, and Seong-Whan Lee,.  
+       <br><br>Proceedings of the Asian Conference on Computer Vision(<strong>ACCV</strong>), 2022.
+
 ---
 <br />
 <br />
