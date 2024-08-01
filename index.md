@@ -13,6 +13,7 @@ profile_picture:
 </p> 
 <p>
   <a href="/assets/pdf/CV_HyunWoo.pdf" target="_blank">CV</a> / <a href="/assets/pdf/portfolio.pdf" target="_blank">Portfolio</a> / <a href="https://github.com/khw11044" target="_blank">Github</a> / <a href="https://www.linkedin.com/in/hyunwoo-kim-35a441205/" target="_blank">LinkedIn</a> / <a href="https://scholar.google.co.kr/citations?user=FhdyFDMAAAAJ&hl=ko&authuser=1" target="_blank">Google Scholar</a><br>
+  <a href="https://hyunew.github.io/" target="_blank">Other Blog</a> <br>
 </p>
 <p>
   <strong>For any suggestion, please contact me with <a href="mailto:khw11044@gmail.com">Email</a>.</strong><br>
@@ -21,10 +22,10 @@ profile_picture:
 <p style="font-size: 18px;">
   <strong>Short Bio</strong><br>
 </p>
-<p>
-  My name is Hyunwoo Kim, and I have completed my Master's degree at <a href="http://xai.korea.ac.kr/" target="_blank">Korea University's Department of Artificial Intelligence</a> under the guidance of Professor <a href="https://research.com/u/seong-whan-lee" target="_blank">Seonghwan Lee</a>. My academic journey has been deeply rooted in the field of computer vision, focusing on 3D Human Pose Estimation and Multi-view Geometry. Currently, my research interests are particularly concentrated on Multi-modal AI and Memory Augmented AI. Specifically, I am interested in Dense Video Captioning, Visual Question Answering, and Video Processing.
+<p> 
+  My name is Hyunwoo Kim, and I have completed my Master's degree at <a href="http://xai.korea.ac.kr/" target="_blank">Korea University's Department of Artificial Intelligence</a> under the guidance of Professor <a href="https://research.com/u/seong-whan-lee" target="_blank">Seonghwan Lee</a>. My academic journey has been deeply rooted in the field of computer vision, focusing on 3D Human Pose Estimation and Multi-view Geometry. Currently, my research interests are particularly concentrated on Multi-modal AI, Memory Augmented AI, RAG, 3DGS.
   <br><br>
-  During my undergraduate studies, I participated in corporate projects as an intern research student, and I successfully carried out corporate projects during my graduate studies as well. My research achievements include first-author publications in ACCV and Pattern Recognition, with my work being selected for an oral presentation at ACCV.
+  During my undergraduate studies, I participated in corporate projects as an intern research student, and I successfully carried out corporate projects during my graduate studies as well. My research achievements include first-author publications in <a href="https://buly.kr/AwdYIP2" target="_blank">ACCV</a> and <a href="https://buly.kr/4QlW0EO" target="_blank">Pattern Recognition</a>, with my work being selected for an oral presentation at ACCV.
   <br><br>
   My goal is to continue advancing the field of AI by developing innovative solutions that bridge the gap between visual and textual data. Ultimately, I aim to contribute to the creation of intelligent systems that understand and interact with the world more naturally and effectively.
 </p>

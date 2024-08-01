@@ -20,12 +20,32 @@
             />
             <span class="work-text">
               <strong>{{ item.title }}</strong>
-              &mdash;
+
               {{ item.description }}
             </span>
           </div>
           {% endfor %}
+
+          <h1 class="page-heading">{{ page.title2 }}</h1>
+          {{ content }}
+
+          {% for item in page.items2 %}
+          <div class="work-item">
+            <img
+              src="{{ item.image.src | absolute_url }}"
+              alt="{{ item.image.alt }}"
+              class="work-bubble"
+            />
+            <span class="work-text">
+              <strong>{{ item.title }}</strong>
+
+              {{ item.description }}
+            </span>
+          </div>
+          {% endfor %}
+
         </div>
+
       </div>
     </div>
 
