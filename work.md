@@ -69,10 +69,10 @@ items3:
       src: /assets/img/work/pj_1_logo.jpg
       alt: mh
     description: | 
-      <br> 2024년, 8월 
       <br><strong>김현우</strong>, 오용석, 문승현, 김민혁, 김남형, 이종은, 문영은.  
+      <br> 2024년, 8월 
       <br> <a href="https://ailogo.world" target="_blank/">개발 페이지</a>
-      <br> KOTRA 공모전 우수상 수상
+      <br> KOTRA 공모전 우수상 수상, KT AIVLE SCHOOL
        
 
   - title: <a href="/assets/pdf/project/miso.pdf" target="_blank/">미소 인공지능 모델 개발 챌린지 - 영유아 행동 영상 부문 - 대상 수상</a>
@@ -80,8 +80,8 @@ items3:
       src: /assets/img/work/pj_2_miso.jpg
       alt: mh 
     description: |  
-      <br> 2021년, 12월
       <br><strong>김현우</strong>, 양건준, 진경민, 강태경.  
+      <br> 2021년, 12월
       <br> <a href="https://www.mbn.co.kr/news/economy/4668445" target="_blank/">관련 기사</a>
       <br> <a href="/assets/pdf/project/miso_award.pdf" target="_blank/">수상</a>
        
@@ -91,16 +91,16 @@ items3:
       src: /assets/img/work/pj_3_alchera.png
       alt: mh 
     description: |  
-      <br> 2021년, 10월
       <br><strong>김현우</strong>, 진경민, 강태경.  
+      <br> 2021년, 10월
 
   - title: <a href="/assets/pdf/project/samsungcard.pdf" target="_blank/">제2회 삼성카드 데이터 분석 & 아이디어 공모전 - 참가</a>
     image:
       src: /assets/img/work/pj_4_samsungcard.png
       alt: mh 
     description: |  
-      <br> 2021년, 7월
       <br><strong>김현우</strong>, 문영균, 홍성우.  
+      <br> 2021년, 7월
        
 
   - title: <a href="https://github.com/sun-pyo/Anti-Drone" target="_blank/">안티드론로봇 프로젝트</a>
@@ -108,8 +108,8 @@ items3:
       src: /assets/img/work/pj_5_antidrone.png
       alt: mh 
     description: |  
-      <br> 2020년, 9월
       <br><strong>김현우</strong>, 홍선표, 방현우, 박여명, 이경찬.  
+      <br> 2020년, 9월
       <br> <a href="https://www.youtube.com/watch?v=ah9MZQ0PjMI" target="_blank/">시연 영상</a>
       <br> <a href="/assets/pdf/project/antidrone.pdf" target="_blank/">수상</a>
 
@@ -118,8 +118,8 @@ items3:
       src: /assets/img/work/pj_6_aimushroombook.png
       alt: mh 
     description: |  
-      <br> 2020년, 9월
       <br><strong>김현우</strong>, 용윤정, 장소영, 최지수.  
+      <br> 2020년, 9월
       <br> <a href="https://www.youtube.com/watch?v=Mn9Dx5xukcg" target="_blank/">시연 영상</a>
       <br> <a href="/assets/pdf/project/aimushroombook.pdf" target="_blank/">수상</a>
 
@@ -128,8 +128,8 @@ items3:
       src: /assets/img/work/pj_7_fpv.png
       alt: mh 
     description: |  
-      <br> 2019년, 9월
       <br><strong>김현우</strong>, 제진명, 김태현.  
+      <br> 2019년, 9월
       <br> <a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q" target="_blank/">시연 영상</a>
       <br> <a href="/assets/pdf/project/fpv.pdf" target="_blank/">수상</a>
 
