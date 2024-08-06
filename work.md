@@ -83,7 +83,7 @@ items3:
       <br> 2021년, 12월
       <br><strong>김현우</strong>, 양건준, 진경민, 강태경.  
       <br> <a href="https://www.mbn.co.kr/news/economy/4668445" target="_blank/">관련 기사</a>
-      <br> <a href="/assets/pdf/project/miso_award.pdf" target="_blank/">상장</a>
+      <br> <a href="/assets/pdf/project/miso_award.pdf" target="_blank/">수상</a>
        
 
   - title: <a href="/assets/pdf/project/alchera.pdf" target="_blank/">알체라 눈바디 AI Challenge - 참가</a>
@@ -111,7 +111,7 @@ items3:
       <br> 2020년, 9월
       <br><strong>김현우</strong>, 홍선표, 방현우, 박여명, 이경찬.  
       <br> <a href="https://www.youtube.com/watch?v=ah9MZQ0PjMI" target="_blank/">시연 영상</a>
-      <br> <a href="/assets/pdf/project/antidrone.pdf" target="_blank/">상장</a>
+      <br> <a href="/assets/pdf/project/antidrone.pdf" target="_blank/">수상</a>
 
   - title: <a href="https://github.com/buglossJisoo/AI_Mushroom_App" target="_blank/">AI 버섯도감 어플</a>
     image:
@@ -121,7 +121,7 @@ items3:
       <br> 2020년, 9월
       <br><strong>김현우</strong>, 용윤정, 장소영, 최지수.  
       <br> <a href="https://www.youtube.com/watch?v=Mn9Dx5xukcg" target="_blank/">시연 영상</a>
-      <br> <a href="/assets/pdf/project/aimushroombook.pdf" target="_blank/">상장</a>
+      <br> <a href="/assets/pdf/project/aimushroombook.pdf" target="_blank/">수상</a>
 
   - title: FPV 자율주행 RC카 프로젝트
     image:
@@ -131,7 +131,7 @@ items3:
       <br> 2019년, 9월
       <br><strong>김현우</strong>, 제진명, 김태현.  
       <br> <a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q" target="_blank/">시연 영상</a>
-      <br> <a href="/assets/pdf/project/fpv.pdf" target="_blank/">상장</a>
+      <br> <a href="/assets/pdf/project/fpv.pdf" target="_blank/">수상</a>
 
 
 
