@@ -73,7 +73,7 @@ items3:
       <br> 2024년, 8월 
       <br> <a href="https://ailogo.world" target="_blank/">개발 페이지</a>
       <br> <a href="assets\pdf\project\KT_AIVLE_Excellence.pdf" target="_blank/"> KT AIVLE School Excellence </a>
-      <br> <a href="https://www.seoulwire.com/news/articleView.html?idxno=618142" target="_blank/"> KOTRA 공모전 우수상 수상 기사보기 </a>
+      <a href="https://www.seoulwire.com/news/articleView.html?idxno=618142" target="_blank/"> KOTRA 공모전 우수상 수상 기사보기 </a>
        
 
   - title: <a href="/assets/pdf/project/miso.pdf" target="_blank/">미소 인공지능 모델 개발 챌린지 - 영유아 행동 영상 부문 - 대상 수상</a>
