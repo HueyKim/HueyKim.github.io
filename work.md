@@ -72,7 +72,7 @@ items3:
       <br><strong>김현우</strong>, 오용석, 문승현, 김민혁, 김남형, 이종은, 문영은.  
       <br> 2024년, 8월 
       <br> <a href="https://ailogo.world" target="_blank/">개발 페이지</a>
-      <br> <a href="assets\pdf\project\KT_AIVLE_Excellence.pdf" target="_blank/"> KT AIVLE School Excellence </a>
+      <br> <a href="assets\pdf\project\KT_AIVLE_Excellence.pdf" target="_blank/"> KT AIVLE School Excellence </a> ,
       <a href="https://www.seoulwire.com/news/articleView.html?idxno=618142" target="_blank/"> KOTRA 공모전 우수상 수상 기사보기 </a>
        
 
