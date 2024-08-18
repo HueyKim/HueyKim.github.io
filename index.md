@@ -13,7 +13,7 @@ profile_picture:
 </p> 
 <p>
   <a href="/assets/pdf/CV_HyunWoo.pdf" target="_blank">CV</a> / <a href="/assets/pdf/portfolio.pdf" target="_blank">Portfolio</a> / <a href="https://github.com/khw11044" target="_blank">Github</a> / <a href="https://www.linkedin.com/in/hyunwoo-kim-35a441205/" target="_blank">LinkedIn</a> / <a href="https://scholar.google.co.kr/citations?user=FhdyFDMAAAAJ&hl=ko&authuser=1" target="_blank">Google Scholar</a><br>
-  <a href="https://hyunew.github.io/" target="_blank">Other Blog</a> <br>
+  <a href="https://hyundoil.tistory.com/" target="_blank">My Skill Blog</a> <br>
 </p>
 <p>
   <strong>For any suggestion, please contact me with <a href="mailto:khw11044@gmail.com">Email</a>.</strong><br>
