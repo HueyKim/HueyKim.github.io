@@ -42,7 +42,7 @@ items:
 
 title2: Industry  Project
 items2:
-  - title: 골프 트레이닝을 위한 인공지능 기반 골프 스윙 분석 알고리즘 개발
+  - title: <a href="/assets/pdf/project/Industry _Project1.pdf" target="_blank/"> 골프 트레이닝을 위한 인공지능 기반 골프 스윙 분석 알고리즘 개발 </a>
     image:
       src: /assets/img/work/industy_1_golf.png
       alt: mh
@@ -52,7 +52,7 @@ items2:
       <br> 수행기간 : 2021.05.01-2021.10.31
       <br> 참여역할 : 관련 분야 연구 및 모델 개발과 데이터셋구축
 
-  - title: 중대형 공간용 초고해상도 비정형 플렌옵틱 동영상 저작/재생 플랫폼 기술 개발
+  - title: <a href="/assets/pdf/project/Industry _Project2.pdf" target="_blank/"> 중대형 공간용 초고해상도 비정형 플렌옵틱 동영상 저작/재생 플랫폼 기술 개발 </a>
     image:
       src: /assets/img/work/industy_2_plenoptic.png
       alt: mh 
@@ -72,7 +72,7 @@ items3:
       <br><strong>김현우</strong>, 오용석, 문승현, 김민혁, 김남형, 이종은, 문영은.  
       <br> 2024년, 8월 
       <br> <a href="https://ailogo.world" target="_blank/">개발 페이지</a>
-      <br> <a href="assets\pdf\project\KT_AIVLE_Excellence.pdf" target="_blank/"> KT AIVLE School Excellence </a> ,
+      <br> <a href="assets\pdf\project\RAG.pdf" target="_blank/"> 수상 </a> ,
       <a href="https://www.seoulwire.com/news/articleView.html?idxno=618142" target="_blank/"> KOTRA 공모전 우수상 수상 기사보기 </a>
        
 
