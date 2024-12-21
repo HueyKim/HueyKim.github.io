@@ -104,7 +104,7 @@ items3:
       alt: mh 
     description: |  
       <br> <strong>#2D Human Pose Estimation #Action Recognition #I3D</strong>
-      <br> 2021년, 12월 <strong>김현우</strong>, 양건준, 진경민, 강태경. 
+      <br> 2021년, 12월 / <strong>김현우</strong>, 양건준, 진경민, 강태경. 
       <br> <a href="https://www.mbn.co.kr/news/economy/4668445" target="_blank/">관련 기사</a>, 
       <a href="/assets/pdf/project/miso_award.pdf" target="_blank/">수상</a>
        
