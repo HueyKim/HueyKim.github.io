@@ -65,3 +65,39 @@ $("a#wechat-link").on("mousemove", function(event) {
 $("a#wechat-link").on("mouseleave", function(event) {
   $("#wechat-widget").css({ display: "none" });
 });
+
+/**
+ * Language toggle for Short Bio
+ */
+$(document).ready(function () {
+  const bioContainer = $("#short-bio-content");
+  const btnKorean = $("#btn-korean");
+  const btnEnglish = $("#btn-english");
+
+  // JSON 파일 경로
+  const bioJsonPath = "/assets/data/bio.json";
+
+  // 소개글 데이터를 저장할 변수
+  let bioData = {};
+
+  // JSON 파일 로드
+  $.getJSON(bioJsonPath, function (data) {
+    bioData = data;
+
+    // 기본값: Korean
+    bioContainer.text(bioData.korean);
+  });
+
+  // 버튼 클릭 이벤트
+  btnKorean.on("click", function () {
+    bioContainer.text(bioData.korean);
+    btnKorean.addClass("active");
+    btnEnglish.removeClass("active");
+  });
+
+  btnEnglish.on("click", function () {
+    bioContainer.text(bioData.english);
+    btnEnglish.addClass("active");
+    btnKorean.removeClass("active");
+  });
+});

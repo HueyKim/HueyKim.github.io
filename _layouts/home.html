@@ -8,13 +8,17 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
+          <!-- 프로필 사진 -->
           <img
             src="{{ page.profile_picture.src | absolute_url }}"
             alt="{{ page.profile_picture.alt }}"
             class="profile-pic"
           />
 
-          {{ content }}
+          <!-- 메인 컨텐츠 -->
+          <div id="main-content">
+            {{ content }}
+          </div>
         </div>
       </div>
     </div>
