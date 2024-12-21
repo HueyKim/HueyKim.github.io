@@ -74,42 +74,50 @@ $(document).ready(function () {
   const btnKorean = $("#btn-korean");
   const btnEnglish = $("#btn-english");
 
-  // JSON 파일 경로
-  const bioJsonPath = "/assets/data/bio.json";
+  // Markdown 파일 경로
+  const bioMarkdownPath = "/assets/data/bio.md";
 
-  // 소개글 데이터를 저장할 변수
-  let bioData = {};
+  // Markdown 데이터를 저장할 변수
+  let bioData = {
+    korean: "",
+    english: ""
+  };
 
-  // JSON 파일 로드 (fetch API 사용)
-  fetch(bioJsonPath)
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      return response.json();
-    })
+  // Markdown 파일 로드 및 파싱
+  fetch(bioMarkdownPath)
+    .then((response) => response.text())
     .then((data) => {
-      bioData = data;
+      // Markdown 파싱
+      const sections = data.split("<!--");
+      bioData.korean = sections[1].split("-->")[1].trim();
+      bioData.english = sections[2].split("-->")[1].trim();
 
       // 기본값: Korean
-      bioContainer.text(bioData.korean);
+      renderMarkdown(bioData.korean);
     })
     .catch((error) => {
-      console.error("Error loading bio JSON:", error);
+      console.error("Error loading bio Markdown:", error);
     });
 
   // 버튼 클릭 이벤트
   btnKorean.on("click", function () {
     console.log("Korean button clicked");
-    bioContainer.text(bioData.korean);
+    renderMarkdown(bioData.korean);
     btnKorean.addClass("active");
     btnEnglish.removeClass("active");
   });
 
   btnEnglish.on("click", function () {
     console.log("English button clicked");
-    bioContainer.text(bioData.english);
+    renderMarkdown(bioData.english);
     btnEnglish.addClass("active");
     btnKorean.removeClass("active");
   });
+
+  // Markdown 렌더링 함수
+  function renderMarkdown(markdown) {
+    const converter = new showdown.Converter();
+    const html = converter.makeHtml(markdown);
+    bioContainer.html(html);
+  }
 });
