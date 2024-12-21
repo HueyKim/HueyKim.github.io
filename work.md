@@ -9,9 +9,9 @@ items:
       src: /assets/img/work/mh.png
       alt: mh
     description: |  
-       <br> International Journal
+       <br> International Journal, <strong>Pattern Recognition</strong>, 2024.
        <br><strong>Hyun-Woo Kim</strong>,Gun-Hee Lee, Woo-Jeoung Nam, Kyung-Min Jin, Tae-Kyung Kang, Geon-Jun Yang, and Seong-Whan Lee.  
-       <br> <strong>Pattern Recognition</strong>, 2024.
+       <br> #3D Human Pose Estimation #Self-Supervised Learning #Multi-Camera Calibration
 
   - title: <a href="https://tinyurl.com/4wn93m4b" target="_blank">Masked Kinematic Continuity-aware Hierarchical Attention Network for pose estimation in videos</a>
     image:
@@ -38,7 +38,7 @@ items:
     description: |  
        <br> International Conference
        <br><strong>Hyun-Woo Kim</strong>, Gun-Hee Lee, Myeong-Seok Oh, and Seong-Whan Lee,.  
-       <br><br>Proceedings of the Asian Conference on Computer Vision(<strong>ACCV</strong>), 2022.
+       <br><br><strong>Asian Conference on Computer Vision(ACCV)</strong>, 2022.
 
 title2: Industry  Project
 items2:
