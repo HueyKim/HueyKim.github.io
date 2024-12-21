@@ -90,12 +90,14 @@ $(document).ready(function () {
 
   // 버튼 클릭 이벤트
   btnKorean.on("click", function () {
+    console.log("Korean button clicked");
     bioContainer.text(bioData.korean);
     btnKorean.addClass("active");
     btnEnglish.removeClass("active");
   });
 
   btnEnglish.on("click", function () {
+    console.log("English button clicked");
     bioContainer.text(bioData.english);
     btnEnglish.addClass("active");
     btnKorean.removeClass("active");
