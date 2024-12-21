@@ -93,8 +93,8 @@ items3:
     description: | 
       <br> <strong>#LLM #RAG #FastAPI</strong>
       <br> 2024년, 8월 / <strong>김현우</strong>, 오용석, 문승현, 김민혁, 김남형, 이종은, 문영은.    
-      <br> <a href="https://ailogo.world" target="_blank/">개발 페이지</a>, 
-      <a href="assets\pdf\project\RAG.pdf" target="_blank/"> 수상 </a> ,
+      <br> <a href="https://ailogo.world" target="_blank/">개발 페이지</a>,  
+      <a href="assets\pdf\project\RAG.pdf" target="_blank/"> 수상 </a>, 
       <a href="https://www.seoulwire.com/news/articleView.html?idxno=618142" target="_blank/"> KOTRA 공모전 우수상 수상 기사보기 </a>
        
 
@@ -105,7 +105,7 @@ items3:
     description: |  
       <br> <strong>#2D Human Pose Estimation #Action Recognition #I3D</strong>
       <br> 2021년, 12월 <strong>김현우</strong>, 양건준, 진경민, 강태경. 
-      <br> <a href="https://www.mbn.co.kr/news/economy/4668445" target="_blank/">관련 기사</a>,
+      <br> <a href="https://www.mbn.co.kr/news/economy/4668445" target="_blank/">관련 기사</a>, 
       <a href="/assets/pdf/project/miso_award.pdf" target="_blank/">수상</a>
        
 
@@ -133,7 +133,7 @@ items3:
     description: |  
       <br> <strong>#Object Detection #SSD MobileNet #Auto-Labeling #AntiDroneRobot #Flask #Android #RaspberryPi</strong>
       <br> 2020년, 9월 / <strong>김현우</strong>, 홍선표, 방현우, 박여명, 이경찬. 
-      <br> <a href="https://www.youtube.com/watch?v=ah9MZQ0PjMI" target="_blank/">시연 영상</a>
+      <br> <a href="https://www.youtube.com/watch?v=ah9MZQ0PjMI" target="_blank/">시연 영상</a>, 
       <a href="/assets/pdf/project/antidrone.pdf" target="_blank/">수상</a>
 
   - title: <a href="https://github.com/buglossJisoo/AI_Mushroom_App" target="_blank/">AI 버섯도감 어플 - 동상</a>
@@ -143,7 +143,7 @@ items3:
     description: |  
       <br> <strong>#Android #Image Classification #Open-set Recognition #Firebase</strong>
       <br> 2020년, 9월 / <strong>김현우</strong>, 용윤정, 장소영, 최지수
-      <br> <a href="https://www.youtube.com/watch?v=Mn9Dx5xukcg" target="_blank/">시연 영상</a>
+      <br> <a href="https://www.youtube.com/watch?v=Mn9Dx5xukcg" target="_blank/">시연 영상</a>, 
       <a href="/assets/pdf/project/aimushroombook.pdf" target="_blank/">수상</a>
 
   - title: FPV 자율주행 RC카 프로젝트 - 동상, 후원업체상
@@ -153,7 +153,7 @@ items3:
     description: |  
       <br> <strong>#RC카 #라즈베리파이 #아두이노 #VR #자이로센서 #컴퓨터비전</strong>
       <br> 2019년, 9월 / <strong>김현우</strong>, 제진명, 김태현.  
-      <br> <a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q" target="_blank/">시연 영상</a>
+      <br> <a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q" target="_blank/">시연 영상</a>, 
       <a href="/assets/pdf/project/fpv.pdf" target="_blank/">수상</a>
 
 
