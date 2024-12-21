@@ -86,7 +86,7 @@ items3:
       <br> <a href="https://github.com/khw11044/Aris-Project_page" target="_blank/">시연영상</a>
 
 
-  - title: <a href="https://github.com/user-attachments/assets/b98fea2f-0fa8-40b8-a22d-b571db583a0d" target="_blank/">LoGo 해외로 Go!, 해외진출에 어려움을 겪는 기업을 위한 통합 정보 제공 서비스 - 우수상</a>
+  - title: <a href="https://github.com/user-attachments/assets/b98fea2f-0fa8-40b8-a22d-b571db583a0d" target="_blank/">LoGo, 해외진출에 어려움을 겪는 기업을 위한 통합 정보 제공 서비스 - 우수상</a>
     image:
       src: /assets/img/work/pj_1_logo.jpg
       alt: mh
