@@ -93,7 +93,7 @@ items3:
     description: | 
       <br> <strong>#LLM #RAG #FastAPI</strong>
       <br> 2024년, 8월 / <strong>김현우</strong>, 오용석, 문승현, 김민혁, 김남형, 이종은, 문영은.    
-      <br> <a href="https://ailogo.world" target="_blank/">개발 페이지</a>
+      <br> <a href="https://ailogo.world" target="_blank/">개발 페이지</a>, 
       <a href="assets\pdf\project\RAG.pdf" target="_blank/"> 수상 </a> ,
       <a href="https://www.seoulwire.com/news/articleView.html?idxno=618142" target="_blank/"> KOTRA 공모전 우수상 수상 기사보기 </a>
        
@@ -105,7 +105,7 @@ items3:
     description: |  
       <br> <strong>#2D Human Pose Estimation #Action Recognition #I3D</strong>
       <br> 2021년, 12월 <strong>김현우</strong>, 양건준, 진경민, 강태경. 
-      <br> <a href="https://www.mbn.co.kr/news/economy/4668445" target="_blank/">관련 기사</a>
+      <br> <a href="https://www.mbn.co.kr/news/economy/4668445" target="_blank/">관련 기사</a>,
       <a href="/assets/pdf/project/miso_award.pdf" target="_blank/">수상</a>
        
 
