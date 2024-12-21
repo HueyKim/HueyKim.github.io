@@ -76,7 +76,7 @@ items3:
       <br> <a href="https://github.com/khw11044/AICadi-Project-Page" target="_blank/">시연영상</a>
 
 
-  - title: <a href="/assets/pdf/project/Aris.pdf" target="_blank/">AI Agent:고객 기반 맞춤형 RAG활용 AI 접수원 </a>
+  - title: <a href="/assets/pdf/project/Aris.pdf" target="_blank/">AI Agent:고객 기반 맞춤형 RAG활용 AI 접수원 - 은상(경기도지사상) </a>
     image:
       src: /assets/img/work/pj_aris.png
       alt: mh
@@ -86,7 +86,7 @@ items3:
       <br> <a href="https://github.com/khw11044/Aris-Project_page" target="_blank/">시연영상</a>
 
 
-  - title: <a href="https://github.com/user-attachments/assets/b98fea2f-0fa8-40b8-a22d-b571db583a0d" target="_blank/">LoGo 해외로 Go!, 해외진출에 어려움을 겪는 기업을 위한 통합 정보 제공 서비스 </a>
+  - title: <a href="https://github.com/user-attachments/assets/b98fea2f-0fa8-40b8-a22d-b571db583a0d" target="_blank/">LoGo 해외로 Go!, 해외진출에 어려움을 겪는 기업을 위한 통합 정보 제공 서비스 - 우수상</a>
     image:
       src: /assets/img/work/pj_1_logo.jpg
       alt: mh
@@ -98,7 +98,7 @@ items3:
       <a href="https://www.seoulwire.com/news/articleView.html?idxno=618142" target="_blank/"> KOTRA 공모전 우수상 수상 기사보기 </a>
        
 
-  - title: <a href="/assets/pdf/project/miso.pdf" target="_blank/">미소 인공지능 모델 개발 챌린지 - 영유아 행동 영상 부문 - 대상 수상</a>
+  - title: <a href="/assets/pdf/project/miso.pdf" target="_blank/">미소 인공지능 모델 개발 챌린지 - 영유아 행동 영상 부문 - 대상</a>
     image:
       src: /assets/img/work/pj_2_miso.jpg
       alt: mh 
@@ -126,7 +126,7 @@ items3:
       <br> 2021년, 7월 / <strong>김현우</strong>, 문영균, 홍성우.
        
 
-  - title: <a href="https://github.com/sun-pyo/Anti-Drone" target="_blank/">안티드론로봇 프로젝트</a>
+  - title: <a href="https://github.com/sun-pyo/Anti-Drone" target="_blank/">안티드론로봇 프로젝트 - 은상, 동상, 동상 </a>
     image:
       src: /assets/img/work/pj_5_antidrone.png
       alt: mh 
@@ -136,7 +136,7 @@ items3:
       <br> <a href="https://www.youtube.com/watch?v=ah9MZQ0PjMI" target="_blank/">시연 영상</a>
       <br> <a href="/assets/pdf/project/antidrone.pdf" target="_blank/">수상</a>
 
-  - title: <a href="https://github.com/buglossJisoo/AI_Mushroom_App" target="_blank/">AI 버섯도감 어플</a>
+  - title: <a href="https://github.com/buglossJisoo/AI_Mushroom_App" target="_blank/">AI 버섯도감 어플 - 동상</a>
     image:
       src: /assets/img/work/pj_6_aimushroombook.png
       alt: mh 
@@ -144,9 +144,9 @@ items3:
       <br> <strong>#Android #Image Classification #Open-set Recognition #Firebase</strong>
       <br> 2020년, 9월 / <strong>김현우</strong>, 용윤정, 장소영, 최지수
       <br> <a href="https://www.youtube.com/watch?v=Mn9Dx5xukcg" target="_blank/">시연 영상</a>
-      <br> <a href="/assets/pdf/project/aimushroombook.pdf" target="_blank/">수상</a>
+      <a href="/assets/pdf/project/aimushroombook.pdf" target="_blank/">수상</a>
 
-  - title: FPV 자율주행 RC카 프로젝트
+  - title: FPV 자율주행 RC카 프로젝트 - 동상, 후원업체상
     image:
       src: /assets/img/work/pj_7_fpv.png
       alt: mh 
