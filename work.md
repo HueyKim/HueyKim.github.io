@@ -51,6 +51,7 @@ items2:
       <br> 근무처 : 고려대학교 패턴인식 및 머신러닝 연구실 (PRML)
       <br> 수행기간 : 2021.05.01-2021.10.31
       <br> 참여역할 : 관련 분야 연구 및 모델 개발과 데이터셋구축
+      <br> <strong> #2D Human Pose Estimation #Event Detection #Active Learning #Auto-Labeling</strong>
 
   - title: <a href="/assets/pdf/project/Industry _Project2.pdf" target="_blank/"> 중대형 공간용 초고해상도 비정형 플렌옵틱 동영상 저작/재생 플랫폼 기술 개발 </a>
     image:
@@ -61,9 +62,30 @@ items2:
        <br> 근무처 : 한성대학교 Visual Intelligence Lab.
        <br> 수행기간 : 2020.07.01-2020.11.30
        <br> 참여역할 : 관련 분야 연구 및 모델 개발과 적용
+       <br> <strong> #Visual Object Tracking #Siamfc </strong>
 
 title3: Project
 items3:
+  - title: <a href="/assets/pdf/project/AICadi.pdf" target="_blank/">AI CADI:모바일 로봇과 AI를 활용한 캐디 로봇</a>
+    image:
+      src: /assets/img/work/pj_aicadi.png
+      alt: mh
+    description: | 
+      <br><strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.  
+      <br> 2024년, 12월 
+      <br> <a href="https://github.com/khw11044/AICadi-Project-Page" target="_blank/">시연영상</a>
+
+
+  - title: <a href="/assets/pdf/project/Aris.pdf" target="_blank/">AI Agent:고객 기반 맞춤형 RAG활용 AI 접수원 </a>
+    image:
+      src: /assets/img/work/pj_aris.png
+      alt: mh
+    description: | 
+      <br><strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.  
+      <br> 2024년, 11월 
+      <br> <a href="https://github.com/khw11044/Aris-Project_page" target="_blank/">시연영상</a>
+
+
   - title: <a href="https://github.com/user-attachments/assets/b98fea2f-0fa8-40b8-a22d-b571db583a0d" target="_blank/">LoGo 해외로 Go!, 해외진출에 어려움을 겪는 기업을 위한 통합 정보 제공 서비스 </a>
     image:
       src: /assets/img/work/pj_1_logo.jpg
