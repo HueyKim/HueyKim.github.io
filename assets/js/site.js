@@ -80,13 +80,23 @@ $(document).ready(function () {
   // 소개글 데이터를 저장할 변수
   let bioData = {};
 
-  // JSON 파일 로드
-  $.getJSON(bioJsonPath, function (data) {
-    bioData = data;
+  // JSON 파일 로드 (fetch API 사용)
+  fetch(bioJsonPath)
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then((data) => {
+      bioData = data;
 
-    // 기본값: Korean
-    bioContainer.text(bioData.korean);
-  });
+      // 기본값: Korean
+      bioContainer.text(bioData.korean);
+    })
+    .catch((error) => {
+      console.error("Error loading bio JSON:", error);
+    });
 
   // 버튼 클릭 이벤트
   btnKorean.on("click", function () {
