@@ -36,7 +36,7 @@ items:
       src: /assets/img/work/cvsf.png
       alt: cvsf
     description: |  
-       <br> International Conference, <strong>Asian Conference on Computer Vision(ACCV)</strong>, 2022.
+       <br> International Conference, <strong><a href="/assets/pdf/project/ACCV_298_Poster.pdf">Asian Conference on Computer Vision(ACCV)</a></strong>, 2022.
        <br><strong>Hyun-Woo Kim</strong>, Gun-Hee Lee, Myeong-Seok Oh, and Seong-Whan Lee.  
        <br> <strong> #3D Human Pose Estimation #Self-Supervised Learning #Multi-Camera Calibration</strong>
 
