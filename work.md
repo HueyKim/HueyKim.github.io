@@ -71,7 +71,7 @@ items3:
       src: /assets/img/work/pj_aicadi.png
       alt: mh
     description: | 
-      <br> 
+      <br> <strong> #Storagy #XYZ #Ros2 #Lidar #SLAM #2D Human Pose Estimation #3D Human Pose Estimation #Event Detection #SAM2 #Depth-Anything #FastAPI</strong>
       <br> 2024년, 12월 / <strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.
       <br> <a href="https://github.com/khw11044/AICadi-Project-Page" target="_blank/">시연영상</a>
 
@@ -81,7 +81,7 @@ items3:
       src: /assets/img/work/pj_aris.png
       alt: mh
     description: | 
-      <br> <strong> #Aris #XYZ #LLM #LoRA #Unsloth #RAG #YoloV11 #Whisper #FastAPI</strong>
+      <br> <strong> #Aris #XYZ #LLM #LoRA #Unsloth #RAG #YoloV11 #Face Recognition #Image Retriver #HuggingFace #Whisper #FastAPI</strong>
       <br> 2024년, 11월 / <strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.
       <br> <a href="https://github.com/khw11044/Aris-Project_page" target="_blank/">시연영상</a>
 
