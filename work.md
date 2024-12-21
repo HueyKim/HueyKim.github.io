@@ -11,34 +11,34 @@ items:
     description: |  
        <br> International Journal, <strong>Pattern Recognition</strong>, 2024.
        <br><strong>Hyun-Woo Kim</strong>,Gun-Hee Lee, Woo-Jeoung Nam, Kyung-Min Jin, Tae-Kyung Kang, Geon-Jun Yang, and Seong-Whan Lee.  
-       <br> #3D Human Pose Estimation #Self-Supervised Learning #Multi-Camera Calibration
+       <br> <strong> #3D Human Pose Estimation #Self-Supervised Learning #Multi-Camera Calibration #Transformer</strong>
 
   - title: <a href="https://tinyurl.com/4wn93m4b" target="_blank">Masked Kinematic Continuity-aware Hierarchical Attention Network for pose estimation in videos</a>
     image:
       src: /assets/img/work/mk.png
       alt: mk
     description: |  
-      <br> International Journal
+      <br> International Journal, <strong>Neural Networks</strong>, 2024.
       <br> Kyung-Min Jin, Gun-Hee Lee, Woo-Jeoung Nam, Tae-Kyung Kang, <strong>Hyun-Woo Kim</strong>,and Seong-Whan Lee.
-      <br> <strong>Neural Networks</strong>, 2024.
+      <br> <strong> #2D Human Pose Estimation #3D Human Pose Estimation #body mesh recovery #Refined Model</strong>
 
   - title: <a href="https://tinyurl.com/2rsvrs72" target="_blank">EGPose Explicit and Geometric Self-Supervision for 3D Human Pose Estimation</a>
     image:
       src: /assets/img/work/egpose.png
       alt: egpose
     description: |  
-      <br> International Conference
+      <br> International Conference, <strong>Procedia Computer Science</strong>, 2023.
       <br>Geon-Jun Yang, Jun-Hee Kim, <strong>Hyun-Woo Kim</strong>, Gun-Hee Lee and Seong-Whan Lee.  
-      <br> <strong>Procedia Computer Science</strong>, 2023.
+      <br> <strong> #3D Human Pose Estimation #Self-Supervised Learning #Multi-Camera Calibration</strong>
 
   - title: <a href="https://tinyurl.com/bdfa8a7k" target="_blank">Cross-view self-fusion for self-supervised 3d human pose estimation in the wild</a>
     image:
       src: /assets/img/work/cvsf.png
       alt: cvsf
     description: |  
-       <br> International Conference
-       <br><strong>Hyun-Woo Kim</strong>, Gun-Hee Lee, Myeong-Seok Oh, and Seong-Whan Lee,.  
-       <br><br><strong>Asian Conference on Computer Vision(ACCV)</strong>, 2022.
+       <br> International Conference, <strong>Asian Conference on Computer Vision(ACCV)</strong>, 2022.
+       <br><strong>Hyun-Woo Kim</strong>, Gun-Hee Lee, Myeong-Seok Oh, and Seong-Whan Lee.  
+       <br> <strong> #3D Human Pose Estimation #Self-Supervised Learning #Multi-Camera Calibration</strong>
 
 title2: Industry  Project
 items2:
