@@ -66,14 +66,16 @@ items2:
 
 title3: Project
 items3:
-  - title: <a href="/assets/pdf/project/AICadi.pdf" target="_blank/">AI CADI:모바일 로봇과 AI를 활용한 캐디 로봇</a>
+  - title: <a href="/assets/pdf/project/AICadi.pdf" target="_blank/">AI CADI:모바일 로봇과 AI를 활용한 캐디 로봇 - 우수상</a>
     image:
       src: /assets/img/work/pj_aicadi.png
       alt: mh
     description: | 
       <br> <strong> #Storagy #XYZ #Ros2 #SLAM #2D/3D Human Pose Estimation #Event Detection #SAM2 #Depth-Anything #FastAPI</strong>
       <br> 2024년, 12월 / <strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.
-      <br> <a href="https://www.youtube.com/watch?v=XtzTZsNgt7c" target="_blank/">발표영상</a>
+      <br> <a href="https://www.youtube.com/watch?v=XtzTZsNgt7c" target="_blank/">발표영상</a>, 
+      <a href="assets\pdf\project\AddinEdu.pdf" target="_blank/"> 수상 </a>
+    
 
 
   - title: <a href="/assets/pdf/project/Aris.pdf" target="_blank/">AI Agent:고객 기반 맞춤형 RAG활용 AI 접수원 - 은상(경기도지사상) </a>
@@ -84,6 +86,7 @@ items3:
       <br> <strong> #Aris #XYZ #LLM #LoRA #Unsloth #RAG #YoloV11 #Face Recognition #Image Retriver #HuggingFace #Whisper #FastAPI</strong>
       <br> 2024년, 11월 / <strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.
       <br> <a href="https://www.youtube.com/watch?v=XtzTZsNgt7c" target="_blank/">발표영상</a>
+      <a href="assets\pdf\project\AddinEdu.pdf" target="_blank/"> 수상 </a>
 
 
   - title: <a href="https://github.com/user-attachments/assets/b98fea2f-0fa8-40b8-a22d-b571db583a0d" target="_blank/">LoGo, 해외진출에 어려움을 겪는 기업을 위한 통합 정보 제공 서비스 - 우수상</a>
