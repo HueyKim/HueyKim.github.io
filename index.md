@@ -37,6 +37,6 @@ profile_picture:
 <hr id="short-bio-divider"> <!-- 가로선 추가 -->
 <p>
 Jan. 2025 Joined the PinkLab R&D Center <br>
-Jan. 2025 Establishment of the Isaac Sim KR Group <br>
+Jan. 2025 Establishment of the <a href="https://www.youtube.com/@IsaacSimKR" target="_blank">Isaac Sim KR</a> Group <br>
 Dec. 2024 Completed Robot&AI training program organized by XYZ&PinkLAB&ADDinEDU <br>
 </p>
