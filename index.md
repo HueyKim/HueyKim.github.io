@@ -15,7 +15,7 @@ profile_picture:
   <a href="https://hyundoil.tistory.com/" target="_blank">My Skill Blog</a> <br>
 </p>
 <p>
-  <strong>For any suggestion, please contact me with <a href="mailto:khw11044@gmail.com">Email</a>.</strong><br>
+  <strong>Please contact me with <a href="mailto:khw11044@gmail.com">Email</a>.</strong><br>
 </p>
 <br>
 <br>
@@ -36,7 +36,7 @@ profile_picture:
 </p>
 <hr id="short-bio-divider"> <!-- 가로선 추가 -->
 <p>
-Dec. 2024 Completed Robot&AI training program organized by XYZ&PinkLAB&ADDinEDU.<br>
-Aug. 2024 Completed AI training program organized by KT.<br>
-Jan. 2024 One paper on my paper got accepted to Pattern Recognition 2024!<br>
+Jan. 2025 Joined the PinkLab R&D Center <br>
+Jan. 2025 Establishment of the Isaac Sim KR Group <br>
+Dec. 2024 Completed Robot&AI training program organized by XYZ&PinkLAB&ADDinEDU <br>
 </p>
