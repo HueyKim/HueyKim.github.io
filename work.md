@@ -86,7 +86,7 @@ items3:
       <br> <strong> #Aris #XYZ #LLM #LoRA #Unsloth #RAG #YoloV11 #Face Recognition #Image Retriver #HuggingFace #Whisper #FastAPI</strong>
       <br> 2024년, 11월 / <strong>김현우</strong>, 김태현, 박성우, 라환철, 이지헌.
       <br> <a href="https://www.youtube.com/watch?v=XtzTZsNgt7c" target="_blank/">발표영상</a>
-      <a href="assets\pdf\project\AddinEdu.pdf" target="_blank/"> 수상 </a>
+      <a href="assets\pdf\project\WCRC.pdf" target="_blank/"> WCRC 수상 </a>
 
 
   - title: <a href="https://github.com/user-attachments/assets/b98fea2f-0fa8-40b8-a22d-b571db583a0d" target="_blank/">LoGo, 해외진출에 어려움을 겪는 기업을 위한 통합 정보 제공 서비스 - 우수상</a>
@@ -109,7 +109,7 @@ items3:
       <br> <strong>#2D Human Pose Estimation #Action Recognition #I3D</strong>
       <br> 2021년, 12월 / <strong>김현우</strong>, 양건준, 진경민, 강태경. 
       <br> <a href="https://www.mbn.co.kr/news/economy/4668445" target="_blank/">관련 기사</a>, 
-      <a href="/assets/pdf/project/miso_award.pdf" target="_blank/">수상</a>
+      <a href="/assets/pdf/project/miso_award.pdf" target="_blank/">대상 수상</a>
        
 
   - title: <a href="/assets/pdf/project/alchera.pdf" target="_blank/">알체라 눈바디 AI Challenge - 참가</a>
